@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+John S. Mutchka: Welcome to my blog
 ---
 
